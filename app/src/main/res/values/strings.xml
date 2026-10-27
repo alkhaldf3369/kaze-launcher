@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kaze</string>
+    <string name="service_name">Kaze: زر الهوم</string>
+    <string name="service_desc">يخلي زر الهوم يفتح واجهة Kaze بدل واجهة قوقل. ما يقرأ محتوى الشاشة.</string>
+</resources>

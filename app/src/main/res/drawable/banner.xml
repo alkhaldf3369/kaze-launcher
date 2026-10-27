@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 320x180 TV banner: night sky with a moon and the app name glyph -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="320dp" android:height="180dp"
+    android:viewportWidth="320" android:viewportHeight="180">
+    <path android:pathData="M0,0h320v180h-320z">
+        <aapt:attr name="android:fillColor">
+            <gradient android:type="linear" android:startX="0" android:startY="0" android:endX="0" android:endY="180"
+                android:startColor="#1A1440" android:centerColor="#3B2266" android:endColor="#E86A92" />
+        </aapt:attr>
+    </path>
+    <path android:fillColor="#FFF4E0" android:pathData="M250,52m-26,0a26,26 0,1 1,52 0a26,26 0,1 1,-52 0" />
+    <path android:fillColor="#140F2E" android:pathData="M0,180L0,140L60,118L110,136L170,104L230,134L280,120L320,132L320,180Z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M40,60h10v26l22,-26h12l-22,25l24,29h-13l-17,-21l-6,7v14h-10z" />
+    <path android:fillColor="#FFB3CB" android:pathData="M96,82c0,-8 6,-14 14,-14c8,0 14,6 14,14c0,8 -6,14 -14,14c-8,0 -14,-6 -14,-14z" />
+</vector>

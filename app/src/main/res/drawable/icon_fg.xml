@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- A five-petal sakura blossom -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <group android:translateX="54" android:translateY="54">
+        <group android:rotation="0"><path android:fillColor="#FFD6E4" android:pathData="M0,-4C-8,-10 -9,-22 -3,-27L0,-23L3,-27C9,-22 8,-10 0,-4Z" /></group>
+        <group android:rotation="72"><path android:fillColor="#FFD6E4" android:pathData="M0,-4C-8,-10 -9,-22 -3,-27L0,-23L3,-27C9,-22 8,-10 0,-4Z" /></group>
+        <group android:rotation="144"><path android:fillColor="#FFD6E4" android:pathData="M0,-4C-8,-10 -9,-22 -3,-27L0,-23L3,-27C9,-22 8,-10 0,-4Z" /></group>
+        <group android:rotation="216"><path android:fillColor="#FFD6E4" android:pathData="M0,-4C-8,-10 -9,-22 -3,-27L0,-23L3,-27C9,-22 8,-10 0,-4Z" /></group>
+        <group android:rotation="288"><path android:fillColor="#FFD6E4" android:pathData="M0,-4C-8,-10 -9,-22 -3,-27L0,-23L3,-27C9,-22 8,-10 0,-4Z" /></group>
+        <path android:fillColor="#FF6FA8" android:pathData="M-4,0a4,4 0,1 0,8 0a4,4 0,1 0,-8 0" />
+    </group>
+</vector>
